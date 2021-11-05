@@ -8,5 +8,5 @@
 * Robin
 * Flash
 * Spiderman
-* Detective
+
 

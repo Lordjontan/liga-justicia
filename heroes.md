@@ -7,6 +7,6 @@
 * Linterna Verde
 * Robin
 * Flash
-* Spiderman
+
 
 
